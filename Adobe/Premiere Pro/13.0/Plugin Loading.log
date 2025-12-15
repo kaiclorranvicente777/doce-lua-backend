@@ -1,0 +1,1813 @@
+-------- Plugin Loading Log ------------
+
+Loading from root path: C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Begin PluginNameList::AddFolder C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Chorus1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Chorus2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Chorus6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeClicker1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeClicker2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeClicker6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeCrackler1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeCrackler2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeCrackler6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeEsser1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeEsser2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeEsser6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeHummer1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeHummer2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeHummer6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeNoiser1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeNoiser2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeNoiser6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Dynamics1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Dynamics2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Dynamics6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\EQ1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\EQ2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\EQ6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Flanger1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Flanger2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Flanger6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\MultiBand1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\MultiBand2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\MultiBand6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Phaser1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Phaser2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Phaser6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\PitchShifter1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\PitchShifter2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\PitchShifter6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Reverb1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Reverb2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Reverb6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\SpectralNoiseReduction1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\SpectralNoiseReduction2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\SpectralNoiseReduction6.dll" 0
+Finished PluginNameList::AddFolder C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US 0
+Scanning C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US and sub-directories
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Chorus1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Chorus2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Chorus6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeClicker1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeClicker2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeClicker6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeCrackler1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeCrackler2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeCrackler6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeEsser1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeEsser2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeEsser6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeHummer1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeHummer2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeHummer6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeNoiser1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeNoiser2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\DeNoiser6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Dynamics1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Dynamics2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Dynamics6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\EQ1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\EQ2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\EQ6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Flanger1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Flanger2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Flanger6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\MultiBand1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\MultiBand2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\MultiBand6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Phaser1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Phaser2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Phaser6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\PitchShifter1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\PitchShifter2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\PitchShifter6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Reverb1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Reverb2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\Reverb6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\SpectralNoiseReduction1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\SpectralNoiseReduction2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\en_US\VSTPlugins\SpectralNoiseReduction6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading from root path: C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Begin PluginNameList::AddFolder C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEAutoColor.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEAutoContrast.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEAutoLevels.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterAlphaAdjust.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterArithmetic.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterASCCDL.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterB-C-2.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBasic_3D.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBevel_Alpha.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBevel_Edges.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlackAndWhite.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlend.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlock_Dissolve.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlueScreen.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBroadcast_Colors.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBrush_Strokes.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCalculations.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCellPattern.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChangeToColor.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChange_Color.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChannel_Blur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChannel_Mixer.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCheckerboard.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChromaKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCineonEffect.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCircle.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterClipName.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorFast.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorRGBCorrector.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorsQuad.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorThreeWay.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_Balance_2.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_Emboss.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_HLS.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_Key.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCompound_Arith.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCompound_Blur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCorner_Pin.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCrop.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCrossDissolve.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDifference.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDigitalVideoLimiter.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDipToBlack.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDipToWhite.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDirectionalBlur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDrop_Shadow.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDust.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEcho.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEdgeFeather.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEllipse.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEmboss.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEqualize.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEyedropperFill.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterFast_Blur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterFind_Edges.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGarbageMatte.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGarbageMatte16.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGarbageMatte8.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGaussianBlur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGradient_Wipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGraphicGroup.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGrid.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterImageMatteKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterInvert.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLeave_Color.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLens_Flare.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLightingEffect.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLightning.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLinear_Wipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumaCorrector.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumaCurve.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumaKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumetri.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMagnify.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMask.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMedian.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMirror.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMorphCut.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMosaic.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoise.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoiseAlpha.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoiseHLS.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoiseHLSAuto.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNonRedKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterOffset.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterPaintBucket.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterPosterize.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterPosterize_Time.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterProcAmp.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRadialShadow.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRadial_Wipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRamp.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRemoveMatte.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRGBCurves.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRGBDifferenceKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRollingShutter.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRoughenEdges.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSDRConform.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSet_Matte.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterShape.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSharpen.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSimpleText.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSolidComposite.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSpherize.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterStabilizer.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterStrobe_Light.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterText.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTexturize.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterThreshold.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTimecode.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTint.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTrackMatteKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTransform.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTurbulentDisplace.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTwirl.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterUltraKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterUnsharp_Mask.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVenetian_Blinds.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVideoLimiter.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRChromaLeaks.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRChromaticAberration.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRColorGradient.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRDenoise.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRDigitalGlitch.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRFractalNoise.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRGaussianBlur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRGlow.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRGradientWipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRIrisWipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRLightLeaks.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRLightRays.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRMobius.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRProject2D.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRProjection.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRRandomBlocks.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRRotateSphere.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRSharpen.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRSphericalBlur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterWave_Warp.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterWrite_on.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEShadowHighlight.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ArriRawMXFSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ARRIRAWSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\CanonRawSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\CinemaDNGSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\DPXSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterAIFF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterAVI.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterBMP.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterDPX.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterGIF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterGIFStill.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterJPEG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMP3.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMPEG2.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMPEG4.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMPEGPreview.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMXF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterNULL.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterP2.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterPNG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterQuickTimeHost.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterTarga.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterTIFF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterUncompressed.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterWave.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterWindowsMedia.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterXDCAMHD.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\F65SourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\FCPXProjectConverter.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAIEPS.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAIFF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterARRIRAW.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterASND.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAVI.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterBarsAndTone.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterBlackMatte.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterCaptioning.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterColorMatte.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterDirectShow.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterDPX.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterF65.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterFastMPEG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterFLV.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterGraphics.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterHDBarsAndTone.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterJPEG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterLeader.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterLumetri.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMP3.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMPEG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMultiStill.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMXF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterPhotoshopProxy.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterPNG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterQuickTime.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterRED.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterSensorManager.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterTarga.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterTiff.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterTransparentMatte.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterWave.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterWindowsMedia.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterXDCAMEX.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\libmmd.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\Motion.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\MPEGSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\Opacity.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\OpenEXR.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\PlayerMediaCore.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\PremiereFiltersMetaPlugin.prmp" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\REDSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\SMDK-VC140-x64-4_15_0.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\SonyRawMXFSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\svml_dispmd.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\TransitionsMetaPlugin.prmp" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\Wraptor.prm" 0
+Finished PluginNameList::AddFolder C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common 0
+Scanning C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common and sub-directories
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEAutoColor.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEAutoContrast.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEAutoLevels.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterAlphaAdjust.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterArithmetic.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterASCCDL.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterB-C-2.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBasic_3D.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBevel_Alpha.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBevel_Edges.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlackAndWhite.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlend.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlock_Dissolve.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBlueScreen.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBroadcast_Colors.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterBrush_Strokes.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCalculations.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCellPattern.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChangeToColor.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChange_Color.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChannel_Blur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChannel_Mixer.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCheckerboard.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterChromaKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCineonEffect.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCircle.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterClipName.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorFast.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorRGBCorrector.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorsQuad.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColorThreeWay.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_Balance_2.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_Emboss.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_HLS.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterColor_Key.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCompound_Arith.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCompound_Blur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCorner_Pin.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCrop.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterCrossDissolve.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDifference.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDigitalVideoLimiter.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDipToBlack.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDipToWhite.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDirectionalBlur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDrop_Shadow.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterDust.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEcho.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEdgeFeather.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEllipse.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEmboss.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEqualize.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterEyedropperFill.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterFast_Blur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterFind_Edges.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGarbageMatte.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGarbageMatte16.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGarbageMatte8.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGaussianBlur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGradient_Wipe.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGraphicGroup.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterGrid.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterImageMatteKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterInvert.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLeave_Color.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLens_Flare.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLightingEffect.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLightning.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLinear_Wipe.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumaCorrector.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumaCurve.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumaKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterLumetri.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMagnify.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMask.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMedian.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMirror.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMorphCut.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterMosaic.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoise.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoiseAlpha.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoiseHLS.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNoiseHLSAuto.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterNonRedKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterOffset.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterPaintBucket.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterPosterize.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterPosterize_Time.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterProcAmp.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRadialShadow.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRadial_Wipe.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRamp.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRemoveMatte.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRGBCurves.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRGBDifferenceKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRollingShutter.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterRoughenEdges.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSDRConform.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSet_Matte.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterShape.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSharpen.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSimpleText.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSolidComposite.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterSpherize.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterStabilizer.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterStrobe_Light.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterText.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTexturize.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterThreshold.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTimecode.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTint.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTrackMatteKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTransform.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTurbulentDisplace.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterTwirl.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterUltraKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterUnsharp_Mask.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVenetian_Blinds.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVideoLimiter.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRChromaLeaks.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRChromaticAberration.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRColorGradient.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRDenoise.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRDigitalGlitch.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRFractalNoise.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRGaussianBlur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRGlow.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRGradientWipe.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRIrisWipe.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRLightLeaks.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRLightRays.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRMobius.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRProject2D.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRProjection.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRRandomBlocks.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRRotateSphere.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRSharpen.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterVRSphericalBlur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterWave_Warp.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEFilterWrite_on.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\AEShadowHighlight.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ArriRawMXFSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ARRIRAWSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\CanonRawSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\CinemaDNGSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\DPXSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterAIFF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterAVI.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterBMP.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterDPX.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterGIF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterGIFStill.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterJPEG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMP3.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMPEG2.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMPEG4.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMPEGPreview.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterMXF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterNULL.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterP2.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterPNG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterTarga.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterTIFF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterUncompressed.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterWave.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterWindowsMedia.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterXDCAMHD.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\F65SourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\FCPXProjectConverter.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAIEPS.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAIFF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterARRIRAW.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterASND.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterAVI.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterBarsAndTone.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterBlackMatte.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterCaptioning.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterColorMatte.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterDirectShow.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterDPX.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterF65.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterFastMPEG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterFLV.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterGraphics.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterHDBarsAndTone.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterJPEG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterLeader.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterLumetri.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMP3.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMPEG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMultiStill.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterMXF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterPhotoshopProxy.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterPNG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterRED.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterSensorManager.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterTarga.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterTiff.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterTransparentMatte.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterWave.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterWindowsMedia.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterXDCAMEX.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\libmmd.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+The plugin is marked as Ignore, so it will not be loaded.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\Motion.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\MPEGSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\Opacity.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\OpenEXR.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\PlayerMediaCore.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader 1b5bc335-92e5-4479-bd38-d18bedec69b2.
+This plugin was recognized by loader c9936cb9-1979-48c8-bf22-dbe0ec323274.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\PremiereFiltersMetaPlugin.prmp
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\REDSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\SMDK-VC140-x64-4_15_0.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+The plugin is marked as Ignore, so it will not be loaded.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\SonyRawMXFSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\svml_dispmd.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+The plugin is marked as Ignore, so it will not be loaded.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\TransitionsMetaPlugin.prmp
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\Wraptor.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ExporterQuickTimeHost.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2019\Plug-Ins\Common\ImporterQuickTime.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading from root path: C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Begin PluginNameList::AddFolder C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore 0
+Finished PluginNameList::AddFolder C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore 0
+Scanning C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore and sub-directories
+

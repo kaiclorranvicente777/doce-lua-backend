@@ -1,0 +1,61 @@
+<?xml version='1.0'?>
+<prop.map version='4'>
+<prop.list>
+<prop.pair>
+<key>DynamicLink_Source_UISettings</key>
+<prop.list>
+<prop.pair>
+<key>AdobeLink_ImportCompDlog_SzPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>528</int>
+<int type='signed' size='32'>186</int>
+<int type='signed' size='32'>449</int>
+<int type='signed' size='32'>434</int>
+</array>
+</prop.pair>
+</prop.list>
+</prop.pair>
+<prop.pair>
+<key>DynamicLink_UISettings</key>
+<prop.list>
+<prop.pair>
+<key>AdobeLink_ImportCompDlog_SzPos</key>
+<array>
+<array.type><int type='signed' size='32'/></array.type>
+<int type='signed' size='32'>402</int>
+<int type='signed' size='32'>110</int>
+<int type='signed' size='32'>562</int>
+<int type='signed' size='32'>507</int>
+</array>
+</prop.pair>
+<prop.pair>
+<key>C:\Users\Káic e Gabi\Desktop\novo</key>
+<true/>
+</prop.pair>
+<prop.pair>
+<key>C:\Users\Káic e Gabi\Desktop\novo\novo_AME</key>
+<true/>
+</prop.pair>
+</prop.list>
+</prop.pair>
+<prop.pair>
+<key>Workspace</key>
+<prop.list>
+<prop.pair>
+<key>Switcher</key>
+<string></string>
+</prop.pair>
+</prop.list>
+</prop.pair>
+<prop.pair>
+<key>__eXoPrivateData__</key>
+<prop.list>
+<prop.pair>
+<key>sLastSetWorkspace</key>
+<ustring>Espaço de trabalho padrão</ustring>
+</prop.pair>
+</prop.list>
+</prop.pair>
+</prop.list>
+</prop.map>

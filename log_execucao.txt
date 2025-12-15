@@ -1,0 +1,838 @@
+☽ Pedido: 1 unid. 1 unid. Bolo Confeitado 1kg
+☽ Cliente: Evelyn
+☽ Sabor: chocolate
+☽ Recheio: Chocolate
+07/12/2025 07:51:18 - Conexão com a internet restabelecida.
+07/12/2025 07:51:19 - [7] Mensagem enviada: ☽ Data: 13/09/2025
+☽ Hora: 14:00
+☽ Status Atual: Aguardando - Coleta Detalhes Adicionais (Topo de bolo / especificações)
+☽ Pedido: 2 Kg Bolo Confeitado - Tradicionais R$60xKg
+☽ Cliente: Erika flávia
+☽ Sabor: chocolate
+☽ Recheio: Recheio Prestígio
+07/12/2025 07:51:20 - Conexão com a internet restabelecida.
+07/12/2025 07:51:22 - [8] Mensagem enviada: ☽ Data: 29/08/2025
+☽ Hora: 19:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+07/12/2025 07:51:23 - Total de mensagens enviadas com sucesso: 8 de 8
+07/12/2025 07:51:23 - Conexão com a internet restabelecida.
+07/12/2025 07:51:24 - Mensagem final enviada: Atualizando Sistema para identificar pedidos novos 🤖 | Status: 200
+07/12/2025 07:51:24 - Verificando mensagens entre despedida e saudação...
+07/12/2025 07:51:24 - Conexão com a internet restabelecida.
+07/12/2025 07:51:25 - Nenhuma mensagem encontrada. Chamando bot_continuo...
+08/12/2025 07:27:36 - Planilha carregada com 8 mensagens.
+08/12/2025 07:28:01 - Imagem do calendário gerada com sucesso.
+08/12/2025 07:28:04 - Excel fechado completamente após execução.
+08/12/2025 07:28:04 - Conexão com a internet restabelecida.
+08/12/2025 07:28:06 - Status envio imagem: 200 | Resposta: {"ok":true,"result":{"message_id":3750,"from":{"id":8570909503,"is_bot":true,"first_name":"Bot-Confeitaria Doce Lua","username":"Confeitaria_Doce_Lua_bot"},"chat":{"id":-1003380097906,"title":"Bot-Confeitaria Doce Lua","type":"supergroup"},"date":1765189685,"photo":[{"file_id":"AgACAgEAAyEGAATJeDNyAAIOpmk2qDWOGhGyLV1bxq6GB2UcQr0hAAIDC2sbd0i4RRUNC7kYKXygAQADAgADcwADNgQ","file_unique_id":"AQADAwtrG3dIuEV4","file_size":1105,"width":90,"height":61},{"file_id":"AgACAgEAAyEGAATJeDNyAAIOpmk2qDWOGhGyLV1bxq6GB2UcQr0hAAIDC2sbd0i4RRUNC7kYKXygAQADAgADbQADNgQ","file_unique_id":"AQADAwtrG3dIuEVy","file_size":19625,"width":320,"height":216},{"file_id":"AgACAgEAAyEGAATJeDNyAAIOpmk2qDWOGhGyLV1bxq6GB2UcQr0hAAIDC2sbd0i4RRUNC7kYKXygAQADAgADeAADNgQ","file_unique_id":"AQADAwtrG3dIuEV9","file_size":91935,"width":800,"height":541},{"file_id":"AgACAgEAAyEGAATJeDNyAAIOpmk2qDWOGhGyLV1bxq6GB2UcQr0hAAIDC2sbd0i4RRUNC7kYKXygAQADAgADdwADNgQ","file_unique_id":"AQADAwtrG3dIuEV8","file_size":180787,"width":1290,"height":873},{"file_id":"AgACAgEAAyEGAATJeDNyAAIOpmk2qDWOGhGyLV1bxq6GB2UcQr0hAAIDC2sbd0i4RRUNC7kYKXygAQADAgADeQADNgQ","file_unique_id":"AQADAwtrG3dIuEV-","file_size":181470,"width":1280,"height":866}],"caption":"Veja seu Calend\u00e1rio Programa\u00e7\u00e3o Pedidos Doce Lua! \ud83e\udd16\ud83d\uddd3\ufe0f"}}
+08/12/2025 07:28:06 - Imagem do calendário enviada com sucesso.
+08/12/2025 07:28:06 - Erro ao enviar imagem do calendário: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Users\\KICEGA~1\\OneDrive\\Documentos\\excel_intervalo.png'
+08/12/2025 07:28:06 - Conexão com a internet restabelecida.
+08/12/2025 07:28:07 - [1] Mensagem enviada: Pedidos em Aberto - Sistema Central Doce Lua
+08/12/2025 07:28:08 - Conexão com a internet restabelecida.
+08/12/2025 07:28:09 - [2] Mensagem enviada: ☽ Data: 20/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 4 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Suzy Kaylene Sousa Santos 
+☽ Sabor: Baunilha
+☽ Recheio: Recheio Ninho com Morangos Frescos
+08/12/2025 07:28:11 - Conexão com a internet restabelecida.
+08/12/2025 07:28:12 - [3] Mensagem enviada: ☽ Data: 10/09/2025
+☽ Hora: 13:00
+☽ Status Atual: Aguardando - Publicação Instagram
+☽ Pedido: 1 Unid. 1kg Bolo Confeitado - Cenografico sem recheio
+☽ Cliente: Adriana Souza
+☽ Sabor: baunilha
+☽ Recheio: 1kg Bolo Confeitado - Cenografico sem recheio
+08/12/2025 07:28:13 - Conexão com a internet restabelecida.
+08/12/2025 07:28:14 - [4] Mensagem enviada: ☽ Data: 06/09/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Unid. 3kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+08/12/2025 07:28:15 - Conexão com a internet restabelecida.
+08/12/2025 07:28:16 - [5] Mensagem enviada: ☽ Data: 05/12/2025
+☽ Hora: 17:30
+☽ Status Atual: Aguardando - Sabor Massa
+☽ Pedido: 75 unid. 75 unid. Doces variados
+☽ Cliente: Anderson Murilo
+☽ Sabor: 0
+☽ Recheio: Ninho com nutella, Brigadeiro e Beijinho
+08/12/2025 07:28:17 - Conexão com a internet restabelecida.
+08/12/2025 07:28:19 - [6] Mensagem enviada: ☽ Data: 07/12/2025
+☽ Hora: 08:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 1 unid. 1 unid. Bolo Confeitado 1kg
+☽ Cliente: Evelyn
+☽ Sabor: chocolate
+☽ Recheio: Chocolate
+08/12/2025 07:28:20 - Conexão com a internet restabelecida.
+08/12/2025 07:28:21 - [7] Mensagem enviada: ☽ Data: 13/09/2025
+☽ Hora: 14:00
+☽ Status Atual: Aguardando - Coleta Detalhes Adicionais (Topo de bolo / especificações)
+☽ Pedido: 2 Kg Bolo Confeitado - Tradicionais R$60xKg
+☽ Cliente: Erika flávia
+☽ Sabor: chocolate
+☽ Recheio: Recheio Prestígio
+08/12/2025 07:28:22 - Conexão com a internet restabelecida.
+08/12/2025 07:28:23 - [8] Mensagem enviada: ☽ Data: 29/08/2025
+☽ Hora: 19:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+08/12/2025 07:28:24 - Total de mensagens enviadas com sucesso: 8 de 8
+08/12/2025 07:28:24 - Conexão com a internet restabelecida.
+08/12/2025 07:28:26 - Mensagem final enviada: Atualizando Sistema para identificar pedidos novos 🤖 | Status: 200
+08/12/2025 07:28:26 - Verificando mensagens entre despedida e saudação...
+08/12/2025 07:28:26 - Conexão com a internet restabelecida.
+08/12/2025 07:28:27 - Nenhuma mensagem encontrada. Chamando bot_continuo...
+09/12/2025 18:51:02 - Planilha carregada com 13 mensagens.
+09/12/2025 18:51:25 - Imagem do calendário gerada com sucesso.
+09/12/2025 18:51:28 - Excel fechado completamente após execução.
+09/12/2025 18:51:28 - Conexão com a internet restabelecida.
+09/12/2025 18:51:30 - Status envio imagem: 200 | Resposta: {"ok":true,"result":{"message_id":3955,"from":{"id":8570909503,"is_bot":true,"first_name":"Bot-Confeitaria Doce Lua","username":"Confeitaria_Doce_Lua_bot"},"chat":{"id":-1003380097906,"title":"Bot-Confeitaria Doce Lua","type":"supergroup"},"date":1765317090,"photo":[{"file_id":"AgACAgEAAyEGAATJeDNyAAIPc2k4meJ_jab5XbY-YZERTiqaU3IZAAIOC2sbCh_JRZLd41QF9CIoAQADAgADcwADNgQ","file_unique_id":"AQADDgtrGwofyUV4","file_size":1125,"width":90,"height":61},{"file_id":"AgACAgEAAyEGAATJeDNyAAIPc2k4meJ_jab5XbY-YZERTiqaU3IZAAIOC2sbCh_JRZLd41QF9CIoAQADAgADbQADNgQ","file_unique_id":"AQADDgtrGwofyUVy","file_size":20598,"width":320,"height":216},{"file_id":"AgACAgEAAyEGAATJeDNyAAIPc2k4meJ_jab5XbY-YZERTiqaU3IZAAIOC2sbCh_JRZLd41QF9CIoAQADAgADeAADNgQ","file_unique_id":"AQADDgtrGwofyUV9","file_size":98903,"width":800,"height":541},{"file_id":"AgACAgEAAyEGAATJeDNyAAIPc2k4meJ_jab5XbY-YZERTiqaU3IZAAIOC2sbCh_JRZLd41QF9CIoAQADAgADdwADNgQ","file_unique_id":"AQADDgtrGwofyUV8","file_size":197706,"width":1290,"height":873},{"file_id":"AgACAgEAAyEGAATJeDNyAAIPc2k4meJ_jab5XbY-YZERTiqaU3IZAAIOC2sbCh_JRZLd41QF9CIoAQADAgADeQADNgQ","file_unique_id":"AQADDgtrGwofyUV-","file_size":198679,"width":1280,"height":866}],"caption":"Veja seu Calend\u00e1rio Programa\u00e7\u00e3o Pedidos Doce Lua! \ud83e\udd16\ud83d\uddd3\ufe0f"}}
+09/12/2025 18:51:30 - Imagem do calendário enviada com sucesso.
+09/12/2025 18:51:30 - Erro ao enviar imagem do calendário: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Users\\KICEGA~1\\OneDrive\\Documentos\\excel_intervalo.png'
+09/12/2025 18:51:30 - Conexão com a internet restabelecida.
+09/12/2025 18:51:31 - [1] Mensagem enviada: Pedidos em Aberto - Sistema Central Doce Lua
+09/12/2025 18:51:33 - Conexão com a internet restabelecida.
+09/12/2025 18:51:34 - [2] Mensagem enviada: ☽ Data: 20/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 4 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Suzy Kaylene Sousa Santos 
+☽ Sabor: Baunilha
+☽ Recheio: Recheio Ninho com Morangos Frescos
+09/12/2025 18:51:35 - Conexão com a internet restabelecida.
+09/12/2025 18:51:36 - [3] Mensagem enviada: ☽ Data: 10/09/2025
+☽ Hora: 13:00
+☽ Status Atual: Aguardando - Publicação Instagram
+☽ Pedido: 1 Unid. 1kg Bolo Confeitado - Cenografico sem recheio
+☽ Cliente: Adriana Souza
+☽ Sabor: baunilha
+☽ Recheio: 1kg Bolo Confeitado - Cenografico sem recheio
+09/12/2025 18:51:37 - Conexão com a internet restabelecida.
+09/12/2025 18:51:38 - [4] Mensagem enviada: ☽ Data: 06/09/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Unid. 3kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+09/12/2025 18:51:40 - Conexão com a internet restabelecida.
+09/12/2025 18:51:41 - [5] Mensagem enviada: ☽ Data: 05/12/2025
+☽ Hora: 17:30
+☽ Status Atual: Aguardando - Sabor Massa
+☽ Pedido: 75 unid. 75 unid. Doces variados
+☽ Cliente: Anderson Murilo
+☽ Sabor: 0
+☽ Recheio: Ninho com nutella, Brigadeiro e Beijinho
+09/12/2025 18:51:42 - Conexão com a internet restabelecida.
+09/12/2025 18:51:43 - [6] Mensagem enviada: ☽ Data: 07/12/2025
+☽ Hora: 08:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 1 unid. 1 unid. Bolo Confeitado 1kg
+☽ Cliente: Evelyn
+☽ Sabor: chocolate
+☽ Recheio: Chocolate
+09/12/2025 18:51:44 - Conexão com a internet restabelecida.
+09/12/2025 18:51:45 - [7] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 3 Kg Bolo 3Kg
+☽ Cliente: Fernanda
+☽ Sabor: Baunilha
+☽ Recheio: Ninho com Morangos
+09/12/2025 18:51:46 - Conexão com a internet restabelecida.
+09/12/2025 18:51:48 - [8] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 5 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Fernanda Negri
+☽ Sabor: Baunilha
+☽ Recheio: Recheio Ninho com Nutella
+09/12/2025 18:51:49 - Conexão com a internet restabelecida.
+09/12/2025 18:51:50 - [9] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 400 Unid. Cento de brigadeiros gourmet/personalizados
+☽ Cliente: Fernanda Negri
+☽ Sabor: Variados
+☽ Recheio: Variados
+09/12/2025 18:51:51 - Conexão com a internet restabelecida.
+09/12/2025 18:51:52 - [10] Mensagem enviada: ☽ Data: 14/12/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 2 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Fabíola Anzolini
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+09/12/2025 18:51:53 - Conexão com a internet restabelecida.
+09/12/2025 18:51:54 - [11] Mensagem enviada: ☽ Data: 20/12/2025
+☽ Hora: 15:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 60 Unid. Caixinha doces de natal
+☽ Cliente: Patrícia Albino
+☽ Sabor: Variados
+☽ Recheio: Variados
+09/12/2025 18:51:56 - Conexão com a internet restabelecida.
+09/12/2025 18:51:57 - [12] Mensagem enviada: ☽ Data: 13/09/2025
+☽ Hora: 14:00
+☽ Status Atual: Aguardando - Coleta Detalhes Adicionais (Topo de bolo / especificações)
+☽ Pedido: 2 Kg Bolo Confeitado - Tradicionais R$60xKg
+☽ Cliente: Erika flávia
+☽ Sabor: chocolate
+☽ Recheio: Recheio Prestígio
+09/12/2025 18:51:58 - Conexão com a internet restabelecida.
+09/12/2025 18:51:59 - [13] Mensagem enviada: ☽ Data: 29/08/2025
+☽ Hora: 19:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+09/12/2025 18:52:00 - Total de mensagens enviadas com sucesso: 13 de 13
+09/12/2025 18:52:00 - Conexão com a internet restabelecida.
+09/12/2025 18:52:01 - Mensagem final enviada: Atualizando Sistema para identificar pedidos novos 🤖 | Status: 200
+09/12/2025 18:52:01 - Verificando mensagens entre despedida e saudação...
+09/12/2025 18:52:02 - Conexão com a internet restabelecida.
+09/12/2025 18:52:03 - Nenhuma mensagem encontrada. Chamando bot_continuo...
+10/12/2025 07:33:46 - Planilha carregada com 13 mensagens.
+10/12/2025 07:34:10 - Imagem do calendário gerada com sucesso.
+10/12/2025 07:34:12 - Excel fechado completamente após execução.
+10/12/2025 07:34:12 - Conexão com a internet restabelecida.
+10/12/2025 07:34:14 - Status envio imagem: 200 | Resposta: {"ok":true,"result":{"message_id":4079,"from":{"id":8570909503,"is_bot":true,"first_name":"Bot-Confeitaria Doce Lua","username":"Confeitaria_Doce_Lua_bot"},"chat":{"id":-1003380097906,"title":"Bot-Confeitaria Doce Lua","type":"supergroup"},"date":1765362854,"photo":[{"file_id":"AgACAgEAAyEGAATJeDNyAAIP72k5TKbQmjL0JnzihyOnoOBESsrFAAJXC2sbCh_JReRB3GBTuAABZQEAAwIAA3MAAzYE","file_unique_id":"AQADVwtrGwofyUV4","file_size":1126,"width":90,"height":61},{"file_id":"AgACAgEAAyEGAATJeDNyAAIP72k5TKbQmjL0JnzihyOnoOBESsrFAAJXC2sbCh_JReRB3GBTuAABZQEAAwIAA20AAzYE","file_unique_id":"AQADVwtrGwofyUVy","file_size":20581,"width":320,"height":216},{"file_id":"AgACAgEAAyEGAATJeDNyAAIP72k5TKbQmjL0JnzihyOnoOBESsrFAAJXC2sbCh_JReRB3GBTuAABZQEAAwIAA3gAAzYE","file_unique_id":"AQADVwtrGwofyUV9","file_size":98799,"width":800,"height":541},{"file_id":"AgACAgEAAyEGAATJeDNyAAIP72k5TKbQmjL0JnzihyOnoOBESsrFAAJXC2sbCh_JReRB3GBTuAABZQEAAwIAA3cAAzYE","file_unique_id":"AQADVwtrGwofyUV8","file_size":198058,"width":1290,"height":873},{"file_id":"AgACAgEAAyEGAATJeDNyAAIP72k5TKbQmjL0JnzihyOnoOBESsrFAAJXC2sbCh_JReRB3GBTuAABZQEAAwIAA3kAAzYE","file_unique_id":"AQADVwtrGwofyUV-","file_size":198891,"width":1280,"height":866}],"caption":"Veja seu Calend\u00e1rio Programa\u00e7\u00e3o Pedidos Doce Lua! \ud83e\udd16\ud83d\uddd3\ufe0f"}}
+10/12/2025 07:34:14 - Imagem do calendário enviada com sucesso.
+10/12/2025 07:34:14 - Erro ao enviar imagem do calendário: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Users\\KICEGA~1\\OneDrive\\Documentos\\excel_intervalo.png'
+10/12/2025 07:34:15 - Conexão com a internet restabelecida.
+10/12/2025 07:34:16 - [1] Mensagem enviada: Pedidos em Aberto - Sistema Central Doce Lua
+10/12/2025 07:34:17 - Conexão com a internet restabelecida.
+10/12/2025 07:34:18 - [2] Mensagem enviada: ☽ Data: 20/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 4 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Suzy Kaylene Sousa Santos 
+☽ Sabor: Baunilha
+☽ Recheio: Recheio Ninho com Morangos Frescos
+10/12/2025 07:34:19 - Conexão com a internet restabelecida.
+10/12/2025 07:34:20 - [3] Mensagem enviada: ☽ Data: 10/09/2025
+☽ Hora: 13:00
+☽ Status Atual: Aguardando - Publicação Instagram
+☽ Pedido: 1 Unid. 1kg Bolo Confeitado - Cenografico sem recheio
+☽ Cliente: Adriana Souza
+☽ Sabor: baunilha
+☽ Recheio: 1kg Bolo Confeitado - Cenografico sem recheio
+10/12/2025 07:34:21 - Conexão com a internet restabelecida.
+10/12/2025 07:34:22 - [4] Mensagem enviada: ☽ Data: 06/09/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Unid. 3kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+10/12/2025 07:34:24 - Conexão com a internet restabelecida.
+10/12/2025 07:34:25 - [5] Mensagem enviada: ☽ Data: 05/12/2025
+☽ Hora: 17:30
+☽ Status Atual: Aguardando - Sabor Massa
+☽ Pedido: 75 unid. 75 unid. Doces variados
+☽ Cliente: Anderson Murilo
+☽ Sabor: 0
+☽ Recheio: Ninho com nutella, Brigadeiro e Beijinho
+10/12/2025 07:34:26 - Conexão com a internet restabelecida.
+10/12/2025 07:34:27 - [6] Mensagem enviada: ☽ Data: 07/12/2025
+☽ Hora: 08:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 1 unid. 1 unid. Bolo Confeitado 1kg
+☽ Cliente: Evelyn
+☽ Sabor: chocolate
+☽ Recheio: Chocolate
+10/12/2025 07:34:28 - Conexão com a internet restabelecida.
+10/12/2025 07:34:29 - [7] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 3 Kg Bolo 3Kg
+☽ Cliente: Fernanda
+☽ Sabor: Baunilha
+☽ Recheio: Ninho com Morangos
+10/12/2025 07:34:30 - Conexão com a internet restabelecida.
+10/12/2025 07:34:31 - [8] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 5 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Fernanda Negri
+☽ Sabor: Baunilha
+☽ Recheio: Recheio Ninho com Nutella
+10/12/2025 07:34:33 - Conexão com a internet restabelecida.
+10/12/2025 07:34:34 - [9] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 400 Unid. Cento de brigadeiros gourmet/personalizados
+☽ Cliente: Fernanda Negri
+☽ Sabor: Variados
+☽ Recheio: Variados
+10/12/2025 07:34:35 - Conexão com a internet restabelecida.
+10/12/2025 07:34:36 - [10] Mensagem enviada: ☽ Data: 14/12/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 2 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Fabíola Anzolini
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+10/12/2025 07:34:37 - Conexão com a internet restabelecida.
+10/12/2025 07:34:38 - [11] Mensagem enviada: ☽ Data: 20/12/2025
+☽ Hora: 15:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 60 Unid. Caixinha doces de natal
+☽ Cliente: Patrícia Albino
+☽ Sabor: Variados
+☽ Recheio: Variados
+10/12/2025 07:34:40 - Conexão com a internet restabelecida.
+10/12/2025 07:34:41 - [12] Mensagem enviada: ☽ Data: 13/09/2025
+☽ Hora: 14:00
+☽ Status Atual: Aguardando - Coleta Detalhes Adicionais (Topo de bolo / especificações)
+☽ Pedido: 2 Kg Bolo Confeitado - Tradicionais R$60xKg
+☽ Cliente: Erika flávia
+☽ Sabor: chocolate
+☽ Recheio: Recheio Prestígio
+10/12/2025 07:34:42 - Conexão com a internet restabelecida.
+10/12/2025 07:34:43 - [13] Mensagem enviada: ☽ Data: 29/08/2025
+☽ Hora: 19:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+10/12/2025 07:34:44 - Total de mensagens enviadas com sucesso: 13 de 13
+10/12/2025 07:34:44 - Conexão com a internet restabelecida.
+10/12/2025 07:34:45 - Mensagem final enviada: Atualizando Sistema para identificar pedidos novos 🤖 | Status: 200
+10/12/2025 07:34:45 - Verificando mensagens entre despedida e saudação...
+10/12/2025 07:34:45 - Conexão com a internet restabelecida.
+10/12/2025 07:34:46 - Nenhuma mensagem encontrada. Chamando bot_continuo...
+11/12/2025 07:44:50 - Planilha carregada com 13 mensagens.
+11/12/2025 07:45:15 - Imagem do calendário gerada com sucesso.
+11/12/2025 07:45:17 - Excel fechado completamente após execução.
+11/12/2025 07:45:18 - Conexão com a internet restabelecida.
+11/12/2025 07:45:20 - Status envio imagem: 200 | Resposta: {"ok":true,"result":{"message_id":4097,"from":{"id":8570909503,"is_bot":true,"first_name":"Bot-Confeitaria Doce Lua","username":"Confeitaria_Doce_Lua_bot"},"chat":{"id":-1003380097906,"title":"Bot-Confeitaria Doce Lua","type":"supergroup"},"date":1765449920,"photo":[{"file_id":"AgACAgEAAyEGAATJeDNyAAIQAWk6oL9qQnq1ab59j-3VZnp6Ru8BAAI5C2sbzyDRRfmrFMabr4V2AQADAgADcwADNgQ","file_unique_id":"AQADOQtrG88g0UV4","file_size":1126,"width":90,"height":61},{"file_id":"AgACAgEAAyEGAATJeDNyAAIQAWk6oL9qQnq1ab59j-3VZnp6Ru8BAAI5C2sbzyDRRfmrFMabr4V2AQADAgADbQADNgQ","file_unique_id":"AQADOQtrG88g0UVy","file_size":20585,"width":320,"height":216},{"file_id":"AgACAgEAAyEGAATJeDNyAAIQAWk6oL9qQnq1ab59j-3VZnp6Ru8BAAI5C2sbzyDRRfmrFMabr4V2AQADAgADeAADNgQ","file_unique_id":"AQADOQtrG88g0UV9","file_size":98842,"width":800,"height":541},{"file_id":"AgACAgEAAyEGAATJeDNyAAIQAWk6oL9qQnq1ab59j-3VZnp6Ru8BAAI5C2sbzyDRRfmrFMabr4V2AQADAgADdwADNgQ","file_unique_id":"AQADOQtrG88g0UV8","file_size":197681,"width":1290,"height":873},{"file_id":"AgACAgEAAyEGAATJeDNyAAIQAWk6oL9qQnq1ab59j-3VZnp6Ru8BAAI5C2sbzyDRRfmrFMabr4V2AQADAgADeQADNgQ","file_unique_id":"AQADOQtrG88g0UV-","file_size":198510,"width":1280,"height":866}],"caption":"Veja seu Calend\u00e1rio Programa\u00e7\u00e3o Pedidos Doce Lua! \ud83e\udd16\ud83d\uddd3\ufe0f"}}
+11/12/2025 07:45:20 - Imagem do calendário enviada com sucesso.
+11/12/2025 07:45:20 - Erro ao enviar imagem do calendário: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Users\\KICEGA~1\\OneDrive\\Documentos\\excel_intervalo.png'
+11/12/2025 07:45:20 - Conexão com a internet restabelecida.
+11/12/2025 07:45:21 - [1] Mensagem enviada: Pedidos em Aberto - Sistema Central Doce Lua
+11/12/2025 07:45:22 - Conexão com a internet restabelecida.
+11/12/2025 07:45:23 - [2] Mensagem enviada: ☽ Data: 20/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 4 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Suzy Kaylene Sousa Santos 
+☽ Sabor: Baunilha
+☽ Recheio: Recheio Ninho com Morangos Frescos
+11/12/2025 07:45:25 - Conexão com a internet restabelecida.
+11/12/2025 07:45:26 - [3] Mensagem enviada: ☽ Data: 10/09/2025
+☽ Hora: 13:00
+☽ Status Atual: Aguardando - Publicação Instagram
+☽ Pedido: 1 Unid. 1kg Bolo Confeitado - Cenografico sem recheio
+☽ Cliente: Adriana Souza
+☽ Sabor: baunilha
+☽ Recheio: 1kg Bolo Confeitado - Cenografico sem recheio
+11/12/2025 07:45:27 - Conexão com a internet restabelecida.
+11/12/2025 07:45:28 - [4] Mensagem enviada: ☽ Data: 06/09/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Unid. 3kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+11/12/2025 07:45:29 - Conexão com a internet restabelecida.
+11/12/2025 07:45:30 - [5] Mensagem enviada: ☽ Data: 05/12/2025
+☽ Hora: 17:30
+☽ Status Atual: Aguardando - Sabor Massa
+☽ Pedido: 75 unid. 75 unid. Doces variados
+☽ Cliente: Anderson Murilo
+☽ Sabor: 0
+☽ Recheio: Ninho com nutella, Brigadeiro e Beijinho
+11/12/2025 07:45:31 - Conexão com a internet restabelecida.
+11/12/2025 07:45:33 - [6] Mensagem enviada: ☽ Data: 07/12/2025
+☽ Hora: 08:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 1 unid. 1 unid. Bolo Confeitado 1kg
+☽ Cliente: Evelyn
+☽ Sabor: chocolate
+☽ Recheio: Chocolate
+11/12/2025 07:45:34 - Conexão com a internet restabelecida.
+11/12/2025 07:45:35 - [7] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 3 Kg Bolo 3Kg
+☽ Cliente: Fernanda
+☽ Sabor: Baunilha
+☽ Recheio: Ninho com Morangos
+11/12/2025 07:45:36 - Conexão com a internet restabelecida.
+11/12/2025 07:45:37 - [8] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 5 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Fernanda Negri
+☽ Sabor: Baunilha
+☽ Recheio: Recheio Ninho com Nutella
+11/12/2025 07:45:38 - Conexão com a internet restabelecida.
+11/12/2025 07:45:39 - [9] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 400 Unid. Cento de brigadeiros gourmet/personalizados
+☽ Cliente: Fernanda Negri
+☽ Sabor: Variados
+☽ Recheio: Variados
+11/12/2025 07:45:41 - Conexão com a internet restabelecida.
+11/12/2025 07:45:42 - [10] Mensagem enviada: ☽ Data: 14/12/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 2 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Fabíola Anzolini
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+11/12/2025 07:45:43 - Conexão com a internet restabelecida.
+11/12/2025 07:45:44 - [11] Mensagem enviada: ☽ Data: 20/12/2025
+☽ Hora: 15:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 60 Unid. Caixinha doces de natal
+☽ Cliente: Patrícia Albino
+☽ Sabor: Variados
+☽ Recheio: Variados
+11/12/2025 07:45:45 - Conexão com a internet restabelecida.
+11/12/2025 07:45:46 - [12] Mensagem enviada: ☽ Data: 13/09/2025
+☽ Hora: 14:00
+☽ Status Atual: Aguardando - Coleta Detalhes Adicionais (Topo de bolo / especificações)
+☽ Pedido: 2 Kg Bolo Confeitado - Tradicionais R$60xKg
+☽ Cliente: Erika flávia
+☽ Sabor: chocolate
+☽ Recheio: Recheio Prestígio
+11/12/2025 07:45:47 - Conexão com a internet restabelecida.
+11/12/2025 07:45:49 - [13] Mensagem enviada: ☽ Data: 29/08/2025
+☽ Hora: 19:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+11/12/2025 07:45:50 - Total de mensagens enviadas com sucesso: 13 de 13
+11/12/2025 07:45:50 - Conexão com a internet restabelecida.
+11/12/2025 07:45:51 - Mensagem final enviada: Atualizando Sistema para identificar pedidos novos 🤖 | Status: 200
+11/12/2025 07:45:51 - Verificando mensagens entre despedida e saudação...
+11/12/2025 07:45:51 - Conexão com a internet restabelecida.
+11/12/2025 07:45:52 - Nenhuma mensagem encontrada. Chamando bot_continuo...
+12/12/2025 07:33:41 - Planilha carregada com 13 mensagens.
+12/12/2025 07:34:06 - Imagem do calendário gerada com sucesso.
+12/12/2025 07:34:09 - Excel fechado completamente após execução.
+12/12/2025 07:34:09 - Conexão com a internet restabelecida.
+12/12/2025 07:34:11 - Status envio imagem: 200 | Resposta: {"ok":true,"result":{"message_id":4397,"from":{"id":8570909503,"is_bot":true,"first_name":"Bot-Confeitaria Doce Lua","username":"Confeitaria_Doce_Lua_bot"},"chat":{"id":-1003380097906,"title":"Bot-Confeitaria Doce Lua","type":"supergroup"},"date":1765535651,"photo":[{"file_id":"AgACAgEAAyEGAATJeDNyAAIRLWk776MqWVW7vBKI6WoT9LRdzYlkAAICC2sblWrhRTs7M6zc15F0AQADAgADcwADNgQ","file_unique_id":"AQADAgtrG5Vq4UV4","file_size":1125,"width":90,"height":61},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRLWk776MqWVW7vBKI6WoT9LRdzYlkAAICC2sblWrhRTs7M6zc15F0AQADAgADbQADNgQ","file_unique_id":"AQADAgtrG5Vq4UVy","file_size":20559,"width":320,"height":216},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRLWk776MqWVW7vBKI6WoT9LRdzYlkAAICC2sblWrhRTs7M6zc15F0AQADAgADeAADNgQ","file_unique_id":"AQADAgtrG5Vq4UV9","file_size":98836,"width":800,"height":541},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRLWk776MqWVW7vBKI6WoT9LRdzYlkAAICC2sblWrhRTs7M6zc15F0AQADAgADdwADNgQ","file_unique_id":"AQADAgtrG5Vq4UV8","file_size":197636,"width":1290,"height":873},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRLWk776MqWVW7vBKI6WoT9LRdzYlkAAICC2sblWrhRTs7M6zc15F0AQADAgADeQADNgQ","file_unique_id":"AQADAgtrG5Vq4UV-","file_size":198416,"width":1280,"height":866}],"caption":"Veja seu Calend\u00e1rio Programa\u00e7\u00e3o Pedidos Doce Lua! \ud83e\udd16\ud83d\uddd3\ufe0f"}}
+12/12/2025 07:34:11 - Imagem do calendário enviada com sucesso.
+12/12/2025 07:34:11 - Erro ao enviar imagem do calendário: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Users\\KICEGA~1\\OneDrive\\Documentos\\excel_intervalo.png'
+12/12/2025 07:34:11 - Conexão com a internet restabelecida.
+12/12/2025 07:34:12 - [1] Mensagem enviada: Pedidos em Aberto - Sistema Central Doce Lua
+12/12/2025 07:34:13 - Conexão com a internet restabelecida.
+12/12/2025 07:34:15 - [2] Mensagem enviada: ☽ Data: 20/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 4 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Suzy Kaylene Sousa Santos 
+☽ Sabor: Baunilha
+☽ Recheio: Recheio Ninho com Morangos Frescos
+12/12/2025 07:34:16 - Conexão com a internet restabelecida.
+12/12/2025 07:34:17 - [3] Mensagem enviada: ☽ Data: 10/09/2025
+☽ Hora: 13:00
+☽ Status Atual: Aguardando - Publicação Instagram
+☽ Pedido: 1 Unid. 1kg Bolo Confeitado - Cenografico sem recheio
+☽ Cliente: Adriana Souza
+☽ Sabor: baunilha
+☽ Recheio: 1kg Bolo Confeitado - Cenografico sem recheio
+12/12/2025 07:34:18 - Conexão com a internet restabelecida.
+12/12/2025 07:34:19 - [4] Mensagem enviada: ☽ Data: 06/09/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Unid. 3kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+12/12/2025 07:34:20 - Conexão com a internet restabelecida.
+12/12/2025 07:34:22 - [5] Mensagem enviada: ☽ Data: 05/12/2025
+☽ Hora: 17:30
+☽ Status Atual: Aguardando - Sabor Massa
+☽ Pedido: 75 unid. 75 unid. Doces variados
+☽ Cliente: Anderson Murilo
+☽ Sabor: 0
+☽ Recheio: Ninho com nutella, Brigadeiro e Beijinho
+12/12/2025 07:34:23 - Conexão com a internet restabelecida.
+12/12/2025 07:34:24 - [6] Mensagem enviada: ☽ Data: 07/12/2025
+☽ Hora: 08:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 1 unid. 1 unid. Bolo Confeitado 1kg
+☽ Cliente: Evelyn
+☽ Sabor: chocolate
+☽ Recheio: Chocolate
+12/12/2025 07:34:25 - Conexão com a internet restabelecida.
+12/12/2025 07:34:26 - [7] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 3 Kg Bolo 3Kg
+☽ Cliente: Fernanda
+☽ Sabor: Baunilha
+☽ Recheio: Ninho com Morangos
+12/12/2025 07:34:27 - Conexão com a internet restabelecida.
+12/12/2025 07:34:28 - [8] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 5 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Fernanda Negri
+☽ Sabor: Baunilha
+☽ Recheio: Recheio Ninho com Nutella
+12/12/2025 07:34:30 - Conexão com a internet restabelecida.
+12/12/2025 07:34:31 - [9] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 400 Unid. Cento de brigadeiros gourmet/personalizados
+☽ Cliente: Fernanda Negri
+☽ Sabor: Variados
+☽ Recheio: Variados
+12/12/2025 07:34:32 - Conexão com a internet restabelecida.
+12/12/2025 07:34:33 - [10] Mensagem enviada: ☽ Data: 14/12/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 2 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Fabíola Anzolini
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+12/12/2025 07:34:34 - Conexão com a internet restabelecida.
+12/12/2025 07:34:35 - [11] Mensagem enviada: ☽ Data: 20/12/2025
+☽ Hora: 15:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 60 Unid. Caixinha doces de natal
+☽ Cliente: Patrícia Albino
+☽ Sabor: Variados
+☽ Recheio: Variados
+12/12/2025 07:34:37 - Conexão com a internet restabelecida.
+12/12/2025 07:34:38 - [12] Mensagem enviada: ☽ Data: 13/09/2025
+☽ Hora: 14:00
+☽ Status Atual: Aguardando - Coleta Detalhes Adicionais (Topo de bolo / especificações)
+☽ Pedido: 2 Kg Bolo Confeitado - Tradicionais R$60xKg
+☽ Cliente: Erika flávia
+☽ Sabor: chocolate
+☽ Recheio: Recheio Prestígio
+12/12/2025 07:34:39 - Conexão com a internet restabelecida.
+12/12/2025 07:34:40 - [13] Mensagem enviada: ☽ Data: 29/08/2025
+☽ Hora: 19:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+12/12/2025 07:34:41 - Total de mensagens enviadas com sucesso: 13 de 13
+12/12/2025 07:34:41 - Conexão com a internet restabelecida.
+12/12/2025 07:34:42 - Mensagem final enviada: Atualizando Sistema para identificar pedidos novos 🤖 | Status: 200
+12/12/2025 07:34:42 - Verificando mensagens entre despedida e saudação...
+12/12/2025 07:34:42 - Conexão com a internet restabelecida.
+12/12/2025 07:34:43 - Nenhuma mensagem encontrada. Chamando bot_continuo...
+13/12/2025 08:47:50 - Planilha carregada com 14 mensagens.
+13/12/2025 08:48:14 - Imagem do calendário gerada com sucesso.
+13/12/2025 08:48:17 - Excel fechado completamente após execução.
+13/12/2025 08:48:17 - Conexão com a internet restabelecida.
+13/12/2025 08:48:19 - Status envio imagem: 200 | Resposta: {"ok":true,"result":{"message_id":4415,"from":{"id":8570909503,"is_bot":true,"first_name":"Bot-Confeitaria Doce Lua","username":"Confeitaria_Doce_Lua_bot"},"chat":{"id":-1003380097906,"title":"Bot-Confeitaria Doce Lua","type":"supergroup"},"date":1765626498,"photo":[{"file_id":"AgACAgEAAyEGAATJeDNyAAIRP2k9UoLLaoZI6MDYX6hAmHAe8ETSAAIyC2sblWrpRRADATsRiRSPAQADAgADcwADNgQ","file_unique_id":"AQADMgtrG5Vq6UV4","file_size":1136,"width":90,"height":61},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRP2k9UoLLaoZI6MDYX6hAmHAe8ETSAAIyC2sblWrpRRADATsRiRSPAQADAgADbQADNgQ","file_unique_id":"AQADMgtrG5Vq6UVy","file_size":20967,"width":320,"height":216},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRP2k9UoLLaoZI6MDYX6hAmHAe8ETSAAIyC2sblWrpRRADATsRiRSPAQADAgADeAADNgQ","file_unique_id":"AQADMgtrG5Vq6UV9","file_size":101544,"width":800,"height":541},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRP2k9UoLLaoZI6MDYX6hAmHAe8ETSAAIyC2sblWrpRRADATsRiRSPAQADAgADdwADNgQ","file_unique_id":"AQADMgtrG5Vq6UV8","file_size":205039,"width":1290,"height":873},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRP2k9UoLLaoZI6MDYX6hAmHAe8ETSAAIyC2sblWrpRRADATsRiRSPAQADAgADeQADNgQ","file_unique_id":"AQADMgtrG5Vq6UV-","file_size":205099,"width":1280,"height":866}],"caption":"Veja seu Calend\u00e1rio Programa\u00e7\u00e3o Pedidos Doce Lua! \ud83e\udd16\ud83d\uddd3\ufe0f"}}
+13/12/2025 08:48:19 - Imagem do calendário enviada com sucesso.
+13/12/2025 08:48:19 - Erro ao enviar imagem do calendário: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Users\\KICEGA~1\\OneDrive\\Documentos\\excel_intervalo.png'
+13/12/2025 08:48:19 - Conexão com a internet restabelecida.
+13/12/2025 08:48:21 - [1] Mensagem enviada: Pedidos em Aberto - Sistema Central Doce Lua
+13/12/2025 08:48:22 - Conexão com a internet restabelecida.
+13/12/2025 08:48:23 - [2] Mensagem enviada: ☽ Data: 20/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 4 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Suzy Kaylene Sousa Santos 
+☽ Sabor: Baunilha
+☽ Recheio: Recheio Ninho com Morangos Frescos
+13/12/2025 08:48:24 - Conexão com a internet restabelecida.
+13/12/2025 08:48:25 - [3] Mensagem enviada: ☽ Data: 10/09/2025
+☽ Hora: 13:00
+☽ Status Atual: Aguardando - Publicação Instagram
+☽ Pedido: 1 Unid. 1kg Bolo Confeitado - Cenografico sem recheio
+☽ Cliente: Adriana Souza
+☽ Sabor: baunilha
+☽ Recheio: 1kg Bolo Confeitado - Cenografico sem recheio
+13/12/2025 08:48:26 - Conexão com a internet restabelecida.
+13/12/2025 08:48:27 - [4] Mensagem enviada: ☽ Data: 06/09/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Unid. 3kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+13/12/2025 08:48:29 - Conexão com a internet restabelecida.
+13/12/2025 08:48:30 - [5] Mensagem enviada: ☽ Data: 05/12/2025
+☽ Hora: 17:30
+☽ Status Atual: Aguardando - Sabor Massa
+☽ Pedido: 75 unid. 75 unid. Doces variados
+☽ Cliente: Anderson Murilo
+☽ Sabor: 0
+☽ Recheio: Ninho com nutella, Brigadeiro e Beijinho
+13/12/2025 08:48:31 - Conexão com a internet restabelecida.
+13/12/2025 08:48:32 - [6] Mensagem enviada: ☽ Data: 07/12/2025
+☽ Hora: 08:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 1 unid. 1 unid. Bolo Confeitado 1kg
+☽ Cliente: Evelyn
+☽ Sabor: chocolate
+☽ Recheio: Chocolate
+13/12/2025 08:48:33 - Conexão com a internet restabelecida.
+13/12/2025 08:48:34 - [7] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 3 Kg Bolo 3Kg
+☽ Cliente: Fernanda
+☽ Sabor: Baunilha
+☽ Recheio: Ninho com Morangos
+13/12/2025 08:48:36 - Conexão com a internet restabelecida.
+13/12/2025 08:48:37 - [8] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 5 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Fernanda Negri
+☽ Sabor: Baunilha
+☽ Recheio: Recheio Ninho com Nutella
+13/12/2025 08:48:38 - Conexão com a internet restabelecida.
+13/12/2025 08:48:39 - [9] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 400 Unid. Cento de brigadeiros gourmet/personalizados
+☽ Cliente: Fernanda Negri
+☽ Sabor: Variados
+☽ Recheio: Variados
+13/12/2025 08:48:40 - Conexão com a internet restabelecida.
+13/12/2025 08:48:41 - [10] Mensagem enviada: ☽ Data: 14/12/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 2 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Fabíola Anzolini
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+13/12/2025 08:48:42 - Conexão com a internet restabelecida.
+13/12/2025 08:48:44 - [11] Mensagem enviada: ☽ Data: 20/12/2025
+☽ Hora: 15:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 60 Unid. Caixinha doces de natal
+☽ Cliente: Patrícia Albino
+☽ Sabor: Variados
+☽ Recheio: Variados
+13/12/2025 08:48:45 - Conexão com a internet restabelecida.
+13/12/2025 08:48:46 - [12] Mensagem enviada: ☽ Data: 15/12/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 1 unidade Bolo de Chocolate
+☽ Cliente: Teste maluco
+☽ Sabor: Chocolate
+☽ Recheio: Brigadeiro
+13/12/2025 08:48:47 - Conexão com a internet restabelecida.
+13/12/2025 08:48:48 - [13] Mensagem enviada: ☽ Data: 13/09/2025
+☽ Hora: 14:00
+☽ Status Atual: Aguardando - Coleta Detalhes Adicionais (Topo de bolo / especificações)
+☽ Pedido: 2 Kg Bolo Confeitado - Tradicionais R$60xKg
+☽ Cliente: Erika flávia
+☽ Sabor: chocolate
+☽ Recheio: Recheio Prestígio
+13/12/2025 08:48:49 - Conexão com a internet restabelecida.
+13/12/2025 08:48:50 - [14] Mensagem enviada: ☽ Data: 29/08/2025
+☽ Hora: 19:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+13/12/2025 08:48:51 - Total de mensagens enviadas com sucesso: 14 de 14
+13/12/2025 08:48:52 - Conexão com a internet restabelecida.
+13/12/2025 08:48:53 - Mensagem final enviada: Atualizando Sistema para identificar pedidos novos 🤖 | Status: 200
+13/12/2025 08:48:53 - Verificando mensagens entre despedida e saudação...
+13/12/2025 08:48:53 - Conexão com a internet restabelecida.
+13/12/2025 08:48:54 - Nenhuma mensagem encontrada. Chamando bot_continuo...
+13/12/2025 08:49:23 - Erro ao decidir próximo script: Command '['python', 'C:\\Users\\KICEGA~1\\OneDrive\\Documentos\\bot_continuo.py']' returned non-zero exit status 1.
+13/12/2025 08:49:23 - Executando bot_continuo com captura de saída...
+13/12/2025 08:49:51 - bot_continuo stdout: 
+13/12/2025 08:49:51 - bot_continuo stderr: 13/12/2025 08:49:24 - root - WARNING - Não foi possível capturar instância do Excel: (-2147221021, 'Operação não disponível', None, None)
+13/12/2025 08:49:24 - root - INFO - \U0001f504 Tentando iniciar bot com connect_timeout=15s e read_timeout=15s...
+13/12/2025 08:49:24 - root - INFO - \u2705 Bot rodando... Ctrl+C para parar.
+13/12/2025 08:49:25 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8570909503:AAF8h_fee0KOSFg95TT6pOr_dDvTqlLQavk/getMe "HTTP/1.1 200 OK"
+13/12/2025 08:49:25 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8570909503:AAF8h_fee0KOSFg95TT6pOr_dDvTqlLQavk/sendMessage "HTTP/1.1 200 OK"
+Traceback (most recent call last):
+  File "C:\Users\KICEGA~1\OneDrive\Documentos\bot_continuo.py", line 2330, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\KICEGA~1\OneDrive\Documentos\bot_continuo.py", line 2312, in main
+    app.run_polling(
+    ~~~~~~~~~~~~~~~^
+        poll_interval=3,
+        ^^^^^^^^^^^^^^^^
+        allowed_updates=Update.ALL_TYPES,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        close_loop=False
+        ^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\KICEGA~1\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_application.py", line 839, in run_polling
+    return self.__run(
+           ~~~~~~~~~~^
+        updater_coroutine=self.updater.start_polling(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+        close_loop=close_loop,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\KICEGA~1\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_application.py", line 1056, in __run
+    loop.run_until_complete(self.post_init(self))
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\KICEGA~1\AppData\Local\Programs\Python\Python314\Lib\asyncio\base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "C:\Users\KICEGA~1\OneDrive\Documentos\bot_continuo.py", line 2256, in avisar_inicio
+    if excel:
+       ^^^^^
+UnboundLocalError: cannot access local variable 'excel' where it is not associated with a value
+
+13/12/2025 08:49:51 - bot_continuo terminou com erro (código 1).
+14/12/2025 19:48:03 - Planilha carregada com 14 mensagens.
+14/12/2025 19:48:28 - Imagem do calendário gerada com sucesso.
+14/12/2025 19:48:30 - Excel fechado completamente após execução.
+14/12/2025 19:48:30 - Conexão com a internet restabelecida.
+14/12/2025 19:48:33 - Status envio imagem: 200 | Resposta: {"ok":true,"result":{"message_id":4485,"from":{"id":8570909503,"is_bot":true,"first_name":"Bot-Confeitaria Doce Lua","username":"Confeitaria_Doce_Lua_bot"},"chat":{"id":-1003380097906,"title":"Bot-Confeitaria Doce Lua","type":"supergroup"},"date":1765752512,"photo":[{"file_id":"AgACAgEAAyEGAATJeDNyAAIRhWk_PsDHbl_rGef5r-Ec_PNZA8lMAAJRC2sbA8b4RQbmZVgX4LU_AQADAgADcwADNgQ","file_unique_id":"AQADUQtrGwPG-EV4","file_size":1141,"width":90,"height":61},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRhWk_PsDHbl_rGef5r-Ec_PNZA8lMAAJRC2sbA8b4RQbmZVgX4LU_AQADAgADbQADNgQ","file_unique_id":"AQADUQtrGwPG-EVy","file_size":20994,"width":320,"height":216},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRhWk_PsDHbl_rGef5r-Ec_PNZA8lMAAJRC2sbA8b4RQbmZVgX4LU_AQADAgADeAADNgQ","file_unique_id":"AQADUQtrGwPG-EV9","file_size":101559,"width":800,"height":541},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRhWk_PsDHbl_rGef5r-Ec_PNZA8lMAAJRC2sbA8b4RQbmZVgX4LU_AQADAgADdwADNgQ","file_unique_id":"AQADUQtrGwPG-EV8","file_size":204992,"width":1290,"height":873},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRhWk_PsDHbl_rGef5r-Ec_PNZA8lMAAJRC2sbA8b4RQbmZVgX4LU_AQADAgADeQADNgQ","file_unique_id":"AQADUQtrGwPG-EV-","file_size":205018,"width":1280,"height":866}],"caption":"Veja seu Calend\u00e1rio Programa\u00e7\u00e3o Pedidos Doce Lua! \ud83e\udd16\ud83d\uddd3\ufe0f"}}
+14/12/2025 19:48:33 - Imagem do calendário enviada com sucesso.
+14/12/2025 19:48:33 - Erro ao enviar imagem do calendário: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Users\\KICEGA~1\\OneDrive\\Documentos\\excel_intervalo.png'
+14/12/2025 19:48:33 - Conexão com a internet restabelecida.
+14/12/2025 19:48:34 - [1] Mensagem enviada: Pedidos em Aberto - Sistema Central Doce Lua
+14/12/2025 19:48:35 - Conexão com a internet restabelecida.
+14/12/2025 19:48:36 - [2] Mensagem enviada: ☽ Data: 20/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 4 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Suzy Kaylene Sousa Santos 
+☽ Sabor: Baunilha
+☽ Recheio: Recheio Ninho com Morangos Frescos
+14/12/2025 19:48:37 - Conexão com a internet restabelecida.
+14/12/2025 19:48:38 - [3] Mensagem enviada: ☽ Data: 10/09/2025
+☽ Hora: 13:00
+☽ Status Atual: Aguardando - Publicação Instagram
+☽ Pedido: 1 Unid. 1kg Bolo Confeitado - Cenografico sem recheio
+☽ Cliente: Adriana Souza
+☽ Sabor: baunilha
+☽ Recheio: 1kg Bolo Confeitado - Cenografico sem recheio
+14/12/2025 19:48:40 - Conexão com a internet restabelecida.
+14/12/2025 19:48:41 - [4] Mensagem enviada: ☽ Data: 06/09/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Unid. 3kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+14/12/2025 19:48:42 - Conexão com a internet restabelecida.
+14/12/2025 19:48:43 - [5] Mensagem enviada: ☽ Data: 05/12/2025
+☽ Hora: 17:30
+☽ Status Atual: Aguardando - Sabor Massa
+☽ Pedido: 75 unid. 75 unid. Doces variados
+☽ Cliente: Anderson Murilo
+☽ Sabor: 0
+☽ Recheio: Ninho com nutella, Brigadeiro e Beijinho
+14/12/2025 19:48:44 - Conexão com a internet restabelecida.
+14/12/2025 19:48:45 - [6] Mensagem enviada: ☽ Data: 07/12/2025
+☽ Hora: 08:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 1 unid. 1 unid. Bolo Confeitado 1kg
+☽ Cliente: Evelyn
+☽ Sabor: chocolate
+☽ Recheio: Chocolate
+14/12/2025 19:48:47 - Conexão com a internet restabelecida.
+14/12/2025 19:48:48 - [7] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 3 Kg Bolo 3Kg
+☽ Cliente: Fernanda
+☽ Sabor: Baunilha
+☽ Recheio: Ninho com Morangos
+14/12/2025 19:48:49 - Conexão com a internet restabelecida.
+14/12/2025 19:48:50 - [8] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 5 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Fernanda Negri
+☽ Sabor: Baunilha
+☽ Recheio: Recheio Ninho com Nutella
+14/12/2025 19:48:51 - Conexão com a internet restabelecida.
+14/12/2025 19:48:52 - [9] Mensagem enviada: ☽ Data: 13/12/2025
+☽ Hora: 10:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 400 Unid. Cento de brigadeiros gourmet/personalizados
+☽ Cliente: Fernanda Negri
+☽ Sabor: Variados
+☽ Recheio: Variados
+14/12/2025 19:48:53 - Conexão com a internet restabelecida.
+14/12/2025 19:48:54 - [10] Mensagem enviada: ☽ Data: 14/12/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 2 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Fabíola Anzolini
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+14/12/2025 19:48:56 - Conexão com a internet restabelecida.
+14/12/2025 19:48:57 - [11] Mensagem enviada: ☽ Data: 20/12/2025
+☽ Hora: 15:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 60 Unid. Caixinha doces de natal
+☽ Cliente: Patrícia Albino
+☽ Sabor: Variados
+☽ Recheio: Variados
+14/12/2025 19:48:58 - Conexão com a internet restabelecida.
+14/12/2025 19:48:59 - [12] Mensagem enviada: ☽ Data: 15/12/2025
+☽ Hora: 18:00
+☽ Status Atual: Aguardando - Preparação Massa
+☽ Pedido: 1 unidade Bolo de Chocolate
+☽ Cliente: Teste maluco
+☽ Sabor: Chocolate
+☽ Recheio: Brigadeiro
+14/12/2025 19:49:00 - Conexão com a internet restabelecida.
+14/12/2025 19:49:01 - [13] Mensagem enviada: ☽ Data: 13/09/2025
+☽ Hora: 14:00
+☽ Status Atual: Aguardando - Coleta Detalhes Adicionais (Topo de bolo / especificações)
+☽ Pedido: 2 Kg Bolo Confeitado - Tradicionais R$60xKg
+☽ Cliente: Erika flávia
+☽ Sabor: chocolate
+☽ Recheio: Recheio Prestígio
+14/12/2025 19:49:03 - Conexão com a internet restabelecida.
+14/12/2025 19:49:04 - [14] Mensagem enviada: ☽ Data: 29/08/2025
+☽ Hora: 19:00
+☽ Status Atual: Aguardando - Pagamento
+☽ Pedido: 1 Kg Bolo Confeitado - Gourmet R$70xKg
+☽ Cliente: Edmesia Dantas
+☽ Sabor: Chocolate
+☽ Recheio: Recheio Trufado com Maracujá
+14/12/2025 19:49:05 - Total de mensagens enviadas com sucesso: 14 de 14
+14/12/2025 19:49:05 - Conexão com a internet restabelecida.
+14/12/2025 19:49:06 - Mensagem final enviada: Atualizando Sistema para identificar pedidos novos 🤖 | Status: 200
+14/12/2025 19:49:06 - Verificando mensagens entre despedida e saudação...
+14/12/2025 19:49:06 - Conexão com a internet restabelecida.
+14/12/2025 19:49:07 - Nenhuma mensagem encontrada. Chamando bot_continuo...
+15/12/2025 07:22:07 - [planilha] Carregada com 13 mensagens (ordenadas por data).
+15/12/2025 07:22:31 - [gerar_imagem_excel] Imagem gerada com sucesso.
+15/12/2025 07:22:34 - [gerar_imagem_excel] Excel fechado completamente.
+15/12/2025 07:22:34 - [aguardar_internet] Conexão restabelecida.
+15/12/2025 07:22:36 - [enviar_imagem_calendario] Status: 200 | Resposta: {"ok":true,"result":{"message_id":4515,"from":{"id":8570909503,"is_bot":true,"first_name":"Bot-Confeitaria Doce Lua","username":"Confeitaria_Doce_Lua_bot"},"chat":{"id":-1003380097906,"title":"Bot-Confeitaria Doce Lua","type":"supergroup"},"date":1765794155,"photo":[{"file_id":"AgACAgEAAyEGAATJeDNyAAIRo2k_4WsKdIdi2393wzX7QuE9xd5nAAInC2sb7yQAAUbNkv-LhgFwawEAAwIAA3MAAzYE","file_unique_id":"AQADJwtrG-8kAAFGeA","file_size":1132,"width":90,"height":61},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRo2k_4WsKdIdi2393wzX7QuE9xd5nAAInC2sb7yQAAUbNkv-LhgFwawEAAwIAA20AAzYE","file_unique_id":"AQADJwtrG-8kAAFGcg","file_size":20532,"width":320,"height":216},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRo2k_4WsKdIdi2393wzX7QuE9xd5nAAInC2sb7yQAAUbNkv-LhgFwawEAAwIAA3gAAzYE","file_unique_id":"AQADJwtrG-8kAAFGfQ","file_size":98699,"width":800,"height":541},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRo2k_4WsKdIdi2393wzX7QuE9xd5nAAInC2sb7yQAAUbNkv-LhgFwawEAAwIAA3cAAzYE","file_unique_id":"AQADJwtrG-8kAAFGfA","file_size":197467,"width":1290,"height":873},{"file_id":"AgACAgEAAyEGAATJeDNyAAIRo2k_4WsKdIdi2393wzX7QuE9xd5nAAInC2sb7yQAAUbNkv-LhgFwawEAAwIAA3kAAzYE","file_unique_id":"AQADJwtrG-8kAAFGfg","file_size":198178,"width":1280,"height":866}],"caption":"Veja seu Calend\u00e1rio Programa\u00e7\u00e3o Pedidos Doce Lua! \ud83e\udd16\ud83d\uddd3\ufe0f"}}
+15/12/2025 07:22:36 - [enviar_imagem_calendario] Imagem enviada com sucesso.
+15/12/2025 07:22:36 - [enviar_imagem_calendario] Erro: [WinError 32] O arquivo já está sendo usado por outro processo: 'C:\\Users\\KICEGA~1\\OneDrive\\Documentos\\excel_intervalo.png'
+15/12/2025 07:22:37 - [aguardar_internet] Conexão restabelecida.
+15/12/2025 07:22:38 - [mensagens] Parte 1/1 enviada com sucesso.
+15/12/2025 07:22:39 - [aguardar_internet] Conexão restabelecida.
+15/12/2025 07:22:40 - [finalizar_fluxo] Mensagem final enviada | Status: 200
+15/12/2025 07:22:40 - [finalizar_fluxo] Verificando mensagens entre despedida e saudação...
+15/12/2025 07:22:40 - [aguardar_internet] Conexão restabelecida.
+15/12/2025 07:22:41 - [finalizar_fluxo] Nenhuma mensagem encontrada. Executando bot_continuo...

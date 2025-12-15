@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-telegram-bot
+requests
+pywin32
+PyMuPDF
+Pillow
+pandas
+openpyxl
+python-multipart
