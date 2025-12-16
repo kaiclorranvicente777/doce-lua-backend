@@ -1,10 +1,20 @@
-import pythoncom
-import telegram
+import sys
 import asyncio
 import os
 import re
 import datetime
 import logging
+import requests
+import signal
+import difflib
+import time
+import functools
+import unicodedata
+import fitz  # PyMuPDF
+from PIL import Image
+
+# Bibliotecas do Telegram
+import telegram
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
     Application,
@@ -14,18 +24,13 @@ from telegram.ext import (
     ContextTypes,
     filters
 )
-import win32com.client as win32
-import requests
-import signal
-import sys
-import win32api
-import win32con
-import difflib
-import time
-import functools
-import unicodedata
-import fitz  # PyMuPDF
-from PIL import Image
+
+# Imports exclusivos do Windows (condicionados)
+if sys.platform == "win32":
+    import pythoncom
+    import win32com.client as win32
+    import win32api
+    import win32con
 
 
 logging.basicConfig(
